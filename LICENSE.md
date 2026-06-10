@@ -1,4 +1,4 @@
-# 
+# Ligero AutoGPT extensiones. Con ejecución de código y memoria contextual — optimizado para el máximo rendimiento y eficiencia.
 
 
 
